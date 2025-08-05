@@ -1,3 +1,4 @@
 # I'm Kireeti
+<img alt = "Top lang" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakireeti-2k7&layout=compact"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnakireeti-2k7)](https://github.com/krishnakireeti-2k7/github-readme-stats)
+<img alt = "My stats" align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=krishnakireeti-2k7"/>
